@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Master of Science in Computer Science.
+- 🌱 I’m currently learning XAI(NLP), DataMinining, Data Science
+
+
 <!--
 **enter1994/enter1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
