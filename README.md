@@ -6,8 +6,8 @@
 - [Resume](https://peridot-rainbow-260.notion.site/a7d9bf72f18c41c181bfbd0da5edf054)
 - [Portfolio](https://peridot-rainbow-260.notion.site/ab1fd8c3c764473b967069916ddb44b9)
 - 국내 논문 (NLP XAI)
-  - [불용어의 BERT 기반 문장 자동분류기에 대한 영향.pdf](https://github.com/enter1994/enter1994/files/10119499/BERT.pdf)
-  - [불용어 빈도수에 강건한 BERT 기반 문장 자동 분류기 학습.pdf](https://github.com/enter1994/enter1994/files/10119504/BERT.pdf)
+  - [불용어의 BERT 기반 문장 자동분류기에 대한 영향.pdf](https://github.com/enter1994/enter1994/files/10119499/BERT.pdf) (KSC 2021)
+  - [불용어 빈도수에 강건한 BERT 기반 문장 자동 분류기 학습.pdf](https://github.com/enter1994/enter1994/files/10119504/BERT.pdf) (KCC 2022)
 
 
 <!--
