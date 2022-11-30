@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Master of Science in Computer Science.
-- 🌱 I’m currently learning XAI(NLP), DataMinining, Data Science
+- 🔭 한양대학교 ERICA 경영학부 졸업
+- 🌱 한양대학교 컴퓨터공학과 4기 재학중
 
 
 <!--
