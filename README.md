@@ -2,6 +2,9 @@
 
 - 🔭 한양대학교 ERICA 경영학부 졸업
 - 🌱 한양대학교 컴퓨터공학과 4기 졸업예정
+
+- 🔭 경영학부 졸업 (13.03 ~ 20.08)
+- 🌱 컴퓨터공학과 석사 졸업예정 (21.03 ~ 23.03)
 - 📞 email : enter1994@naver.com
 - [Resume](https://peridot-rainbow-260.notion.site/a7d9bf72f18c41c181bfbd0da5edf054)
 - [Portfolio](https://peridot-rainbow-260.notion.site/ab1fd8c3c764473b967069916ddb44b9)
