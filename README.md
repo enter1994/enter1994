@@ -10,6 +10,7 @@
   - [불용어 빈도수에 강건한 BERT 기반 문장 자동 분류기 학습.pdf](https://github.com/enter1994/enter1994/files/10119504/BERT.pdf) (KCC 2022)
 - 활용 가능 언어
   - Python(Pytorch, Tensorflow, Pyspark, Kafka, Pandas 등)
+  - SQL
 
 
 <!--
