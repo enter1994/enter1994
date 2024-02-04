@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-
+- 전공/직업
+  - 컴퓨터공학과(NLP 분야 전공)/데이터분석가
 - 해외 논문 (NLP)
   - Automated Clinical Impression Generation for Medical Signal Data Searches (MDPI 2023)
 - 국내 논문 (NLP)
