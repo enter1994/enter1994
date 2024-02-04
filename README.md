@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-- 🔭 한양대학교(ERICA) 경영학부 졸업 (13.03 ~ 20.08)
-- 🌱 한양대학교 컴퓨터공학과 석사 졸업 (21.03 ~ 23.02)
-- 📞 email : enter1994@naver.com
+
 - 해외 논문 (NLP)
   - Automated Clinical Impression Generation for Medical Signal Data Searches (MDPI 2023)
 - 국내 논문 (NLP)
