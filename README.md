@@ -13,8 +13,7 @@
   - Python
   - SQL
   - AWS(Sagemaker, Athena, Lambda etc)
- 
-![Doyeong](https://road-to-kaggle-grandmaster.vercel.app/api/simple/{Doyeong})
+
 
 <!--
 **enter1994/enter1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
