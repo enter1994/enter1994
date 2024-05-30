@@ -2,8 +2,8 @@
 
 - 전공
   - 컴퓨터공학과(NLP 분야 전공)
-- Careers
-  - 데이터 분석가
+- 분야
+  - 데이터 분석가, 데이터 사이언티스트
 - 해외 논문 (NLP)
   - Automated Clinical Impression Generation for Medical Signal Data Searches (MDPI 2023)
 - 국내 논문 (NLP)
@@ -13,6 +13,8 @@
   - Python
   - SQL
   - AWS(Sagemaker, Athena, Lambda etc)
+ 
+  ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/notebook)
 
 <!--
 **enter1994/enter1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
