@@ -21,4 +21,4 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-#20BEFF
+<img src="https://img.shields.io/badge/20BEFF?style=flat-square&logo=Kaggle&logoColor=white"/></a>
