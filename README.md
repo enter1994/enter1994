@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=B97DF7&center=true&random=false&width=435&lines=Welcom+my+github+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=25&pause=1000&color=5DF7C2&center=true&vCenter=true&random=false&width=435&lines=Welcome+my+github+profile!)](https://git.io/typing-svg)
 
 - 전공
   - 컴퓨터공학과(NLP 분야 전공)
@@ -20,5 +20,3 @@
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-<img src="https://img.shields.io/badge/20BEFF?style=flat-square&logo=Kaggle&logoColor=white"/></a>
