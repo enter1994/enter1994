@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=B97DF7&center=true&random=false&width=435&lines=Welcom+my+github+profile!)](https://git.io/typing-svg)
 
 - 전공
   - 컴퓨터공학과(NLP 분야 전공)
@@ -13,10 +13,6 @@
   - Python
   - SQL
   - AWS(Sagemaker, Athena, Lambda etc)
-
----
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Doyeong&theme=dark)](https://git.io/streak-stats)
 
 ---
 
